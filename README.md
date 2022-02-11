@@ -35,6 +35,7 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## :boom: Fotos do Projeto :boom:
 
+![Capturar](https://user-images.githubusercontent.com/86798260/153603891-24b6f3a4-74e5-4b7e-9c0e-fe34afd37d90.PNG)
 
 
 ## Desenvolvido por Bruno Luan
